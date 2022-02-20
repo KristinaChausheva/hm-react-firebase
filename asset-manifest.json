@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/KristinaChausheva/hm-react-firebase/static/css/main.bbc1ef59.chunk.css",
+    "main.js": "/KristinaChausheva/hm-react-firebase/static/js/main.df4cf0d1.chunk.js",
+    "main.js.map": "/KristinaChausheva/hm-react-firebase/static/js/main.df4cf0d1.chunk.js.map",
+    "runtime-main.js": "/KristinaChausheva/hm-react-firebase/static/js/runtime-main.65926c27.js",
+    "runtime-main.js.map": "/KristinaChausheva/hm-react-firebase/static/js/runtime-main.65926c27.js.map",
+    "static/css/2.c07b8c99.chunk.css": "/KristinaChausheva/hm-react-firebase/static/css/2.c07b8c99.chunk.css",
+    "static/js/2.d3f14bf4.chunk.js": "/KristinaChausheva/hm-react-firebase/static/js/2.d3f14bf4.chunk.js",
+    "static/js/2.d3f14bf4.chunk.js.map": "/KristinaChausheva/hm-react-firebase/static/js/2.d3f14bf4.chunk.js.map",
+    "static/js/3.98ae6b2e.chunk.js": "/KristinaChausheva/hm-react-firebase/static/js/3.98ae6b2e.chunk.js",
+    "static/js/3.98ae6b2e.chunk.js.map": "/KristinaChausheva/hm-react-firebase/static/js/3.98ae6b2e.chunk.js.map",
+    "index.html": "/KristinaChausheva/hm-react-firebase/index.html",
+    "static/css/2.c07b8c99.chunk.css.map": "/KristinaChausheva/hm-react-firebase/static/css/2.c07b8c99.chunk.css.map",
+    "static/css/main.bbc1ef59.chunk.css.map": "/KristinaChausheva/hm-react-firebase/static/css/main.bbc1ef59.chunk.css.map",
+    "static/js/2.d3f14bf4.chunk.js.LICENSE.txt": "/KristinaChausheva/hm-react-firebase/static/js/2.d3f14bf4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/KristinaChausheva/hm-react-firebase/static/media/personIcon.60c17ce3.svg",
+    "static/media/bathtubIcon.b95c8ddb.svg": "/KristinaChausheva/hm-react-firebase/static/media/bathtubIcon.b95c8ddb.svg",
+    "static/media/bedIcon.eefa75b1.svg": "/KristinaChausheva/hm-react-firebase/static/media/bedIcon.eefa75b1.svg",
+    "static/media/deleteIcon.a53e2203.svg": "/KristinaChausheva/hm-react-firebase/static/media/deleteIcon.a53e2203.svg",
+    "static/media/editIcon.9b527df0.svg": "/KristinaChausheva/hm-react-firebase/static/media/editIcon.9b527df0.svg",
+    "static/media/exploreIcon.46f5bb69.svg": "/KristinaChausheva/hm-react-firebase/static/media/exploreIcon.46f5bb69.svg",
+    "static/media/googleIcon.cc17fc5b.svg": "/KristinaChausheva/hm-react-firebase/static/media/googleIcon.cc17fc5b.svg",
+    "static/media/homeIcon.09f28a71.svg": "/KristinaChausheva/hm-react-firebase/static/media/homeIcon.09f28a71.svg",
+    "static/media/keyboardArrowRightIcon.8cee54be.svg": "/KristinaChausheva/hm-react-firebase/static/media/keyboardArrowRightIcon.8cee54be.svg",
+    "static/media/localOfferIcon.2f90605b.svg": "/KristinaChausheva/hm-react-firebase/static/media/localOfferIcon.2f90605b.svg",
+    "static/media/personOutlineIcon.f67a0190.svg": "/KristinaChausheva/hm-react-firebase/static/media/personOutlineIcon.f67a0190.svg",
+    "static/media/rentCategoryImage.cd9f0150.jpg": "/KristinaChausheva/hm-react-firebase/static/media/rentCategoryImage.cd9f0150.jpg",
+    "static/media/sellCategoryImage.c4d28ee7.jpg": "/KristinaChausheva/hm-react-firebase/static/media/sellCategoryImage.c4d28ee7.jpg",
+    "static/media/shareIcon.cbe96fad.svg": "/KristinaChausheva/hm-react-firebase/static/media/shareIcon.cbe96fad.svg",
+    "static/media/visibilityIcon.d42e2dff.svg": "/KristinaChausheva/hm-react-firebase/static/media/visibilityIcon.d42e2dff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65926c27.js",
+    "static/css/2.c07b8c99.chunk.css",
+    "static/js/2.d3f14bf4.chunk.js",
+    "static/css/main.bbc1ef59.chunk.css",
+    "static/js/main.df4cf0d1.chunk.js"
+  ]
+}
